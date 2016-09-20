@@ -13,5 +13,5 @@ alert("u:"+typeof u);
 alert("n:"+typeof n);
 alert("o:"+typeof o);
 
-alert("isO-object:"+ o instanceof Object);
+alert("isO-object:"+ (o instanceof Object);
 </script>
