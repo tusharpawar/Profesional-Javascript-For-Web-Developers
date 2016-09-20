@@ -1,0 +1,4 @@
+It has to give error as i am using xhtml-
+It is not allowed to use < > in scripts.
+
+But it is not giving error

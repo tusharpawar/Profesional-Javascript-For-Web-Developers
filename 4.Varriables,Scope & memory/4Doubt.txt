@@ -1,0 +1,3 @@
+isInstanceof Object should return true for o
+but it is returning false
+Why?
